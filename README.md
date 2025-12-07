@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm asadcoder99</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img src = "file:///C:/Users/HP%20Laptop/Downloads/Black%20and%20White%20Illustrative%20Linkedin%20Banner.png">
+<img src = "">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asadcoder99&label=Profile%20views&color=0e75b6&style=flat" alt="asadcoder99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asadcoder99" alt="asadcoder99" /></a> </p>
